@@ -11,3 +11,6 @@ Installation
 3. Log in to your Q2A site as a Super Administrator and head to Admin > Posting.
 4. Set the default editor for questions and answers to 'Markdown Editor'. The editor does also work for comments, but keeping to plain text is recommended.
 
+Screenshot
+-------------------------------------------------
+![image](https://github.com/awei922/markdown-editor-for-q2a/blob/master/screenshot.png)
