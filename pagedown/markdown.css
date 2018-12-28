@@ -1,0 +1,6 @@
+.te-popup-add-image .te-url-type{
+    display: block;
+}
+.te-popup-add-image .te-tab-section,.te-popup-add-image form.te-file-type{
+    display: none !important;
+}

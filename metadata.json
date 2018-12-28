@@ -1,0 +1,13 @@
+{
+	"name": "Markdown Editor For Q2A",
+	"uri": "",
+	"description": "Markdown editor plugin for simple question2answer",
+	"version": "1.0.0",
+	"date": "2018-12-27",
+	"author": "awei922",
+	"author_uri": "http://slimqa.com/",
+	"license": "GPLv3",
+	"update_uri": "",
+	"min_q2a": "1.6",
+	"min_php": "5.4"
+}
